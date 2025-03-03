@@ -30,23 +30,6 @@ We're passionate about building robust blockchain infrastructure. As experienced
 - **Hardware**: Latest generation servers with redundant systems
 - **Geographic Distribution**: Strategic global server placement for optimal performance
 
-## 💫 Networks We Support
-
-<div align="center">
-
-| Network | Status | Uptime | Performance |
-|:-------:|:------:|:------:|:-----------:|
-| <img src="https://raw.githubusercontent.com/0xPellNetwork/pell_media_kit/refs/heads/main/Pell_logo_white.svg" height="30" alt="Pell Network"> | 🟢 Active | 99.9% | 100% |
-| <img src="https://docs.wardenprotocol.org/img/logo-dark.svg" height="30" alt="Warden Protocol"> | 🟢 Active | 99.9% | 99.8% |
-| <img src="https://blockitize.com/airchains.svg" height="30" alt="Airchains"> | 🟢 Active | 99.9% | 99.9% |
-| <img src="https://cdn-assets-cloud.frontify.com/s3/frontify-cloud-files-us/eyJwYXRoIjoiZnJvbnRpZnlcL2ZpbGVcL0NmZ1g4ZHQ0QU1vQnVQVnJUNUZhLnN2ZyJ9:frontify:oINXtyTbwsPVIDA_KU94BpQS4fl9yiP1nHGZkTatgWo?width=2400" height="60" alt="Celestia"> | 🟢 Active | 99.9% | 100% |
-| <img src="https://fiammachain.io/static/logo.svg" height="50" alt="Fiamma"> | 🟢 Active | 99.9% | 99.9% |
-| <img src="https://dymension.xyz/_next/static/media/dymension-logo.709c5330.svg" height="30" alt="Dymension"> | 🟢 Active | 99.9% | 99.8% |
-| <img src="https://framerusercontent.com/assets/LRxuZT6wm3oW4TsrHIKb2FAFes.svg" height="30" alt="Babylon"> | 🟢 Active | 99.9% | 100% |
-| <img src="https://blockitize.com/avail.svg" height="30" alt="Avail"> | 🟢 Active | 99.9% | 99.9% |
-
-</div>
-
 ## 📊 Performance Stats
 
 - **Average Monthly Uptime**: 99.9%
